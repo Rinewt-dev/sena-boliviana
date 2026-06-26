@@ -552,6 +552,7 @@ vidPlayPause.addEventListener('click',()=>{
 });
 video.addEventListener('timeupdate',()=>{ if(video.duration) vidSeek.value=(video.currentTime/video.duration)*100; });
 video.addEventListener('ended',()=>{ vidPlayPause.textContent='▶'; });
+video.addEventListener('loadeddata',()=>{ if(videoFileMode) lastVideoTime=-1; });
 vidSeek.addEventListener('input',()=>{ if(video.duration){ video.currentTime=(vidSeek.value/100)*video.duration; lastVideoTime=-1; } });
 vidSpeed.addEventListener('change',()=>{ video.playbackRate=parseFloat(vidSpeed.value); });
 vidMirror.addEventListener('click',()=>{
@@ -634,7 +635,9 @@ function drawHand(lm){
 }
 function loop(){
   if(!running){ return; }
-  if(mode!=='listen' && handLandmarker && video.currentTime!==lastVideoTime){
+  // video pausado: forzar re-detección cada frame hasta que readyState tenga datos
+  if(videoFileMode && video.paused && video.readyState>=2) lastVideoTime=-1;
+  if(mode!=='listen' && handLandmarker && video.currentTime!==lastVideoTime && video.readyState>=2){
     lastVideoTime=video.currentTime;
     const now=performance.now();
     const res=handLandmarker.detectForVideo(video, now);
