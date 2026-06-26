@@ -1,0 +1,2316 @@
+{
+  "_nota": "Frases de la entrevista médica en QUECHUA BOLIVIANO, extraídas de una guía oficial de la OPS/OMS Bolivia (ver _fuente). Extracción automática del PDF: conviene una revisión con hablante nativo. El AYMARA está pendiente.",
+  "_fuente": "OPS/OMS Bolivia. 'Diálogo Médico-Paciente en Quechua'. La Paz, 2013. Revisor de la traducción: Diether Flores Chumacero. Coordinación técnica OPS/OMS: Hugo Rivera, Susana Hannover.",
+  "frases": [
+    {
+      "es": "Buenos días.",
+      "qu": "Allin p’unchaw",
+      "ay": ""
+    },
+    {
+      "es": "Buenas tardes",
+      "qu": "Allin sukha",
+      "ay": ""
+    },
+    {
+      "es": "Buenas Noches",
+      "qu": "Allin tuta",
+      "ay": ""
+    },
+    {
+      "es": "Yo soy el doctor/la doctora...",
+      "qu": "Ñuqa jampiq kani.",
+      "ay": ""
+    },
+    {
+      "es": "Cuando te pregunte, me vas a decir sí, ó me vas a decir no",
+      "qu": "Tapusuqtiy, arí niwanki, manachayrí mana niwanki",
+      "ay": ""
+    },
+    {
+      "es": "¿Sí o No? ¿Sí? ¿No?",
+      "qu": "¿Manachu? ¿Arí manachu? ¿Arí?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo te llamas?",
+      "qu": "¿Imataq sutiyki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántos años tienes?",
+      "qu": "¿Machkha watayuq kanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Trabajas?",
+      "qu": "¿Llamk’ankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿En qué trabajas?",
+      "qu": "¿Imapi llamk’anki?",
+      "ay": ""
+    },
+    {
+      "es": "¿De dónde eres?",
+      "qu": "¿Maymantataq kanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Dónde has nacido?",
+      "qu": "¿Maypitaq paqarikurqanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿De dónde vienes?",
+      "qu": "¿Maymantataq jamuchkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Dónde vives?",
+      "qu": "¿Maypitaq tiyakunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿En tu casa hay personas que tosen?",
+      "qu": "¿Wasiykipi runakuna ch’ujuykachankuchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿En el lugar que trabajas la gente tose?",
+      "qu": "¿Llamk’anki chaypi runakuna ch’ujuykachankuchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿La gente de tu casa está enferma de tuberculosis?",
+      "qu": "¿Wasiykipi ch’aki ch’ujuwan unqusqa runakuna kankuchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿En el lugar que trabajas las personas están enfermas de tuberculosis?",
+      "qu": "¿Llamk’anki chaypi ch’aki ch’ujuwan unqusqa runakuna kankuchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Has estado enfermo de diabetes?",
+      "qu": "¿Ñawpaqta diabeteswan unqurqankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te cortas sana bien?",
+      "qu": "¿Khuchukuqtiyki sumaqtachu thaniyan?",
+      "ay": ""
+    },
+    {
+      "es": "¿En cuánto tiempo te has sanado?",
+      "qu": "¿Machkha unaypi thanirikunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Has estado internado en el hospital?",
+      "qu": "¿Hospitalpi internasqa kayta yachankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿La gente de tu casa han estado enfermos?",
+      "qu": "¿Wasiykimanta runakuna kunan kunan unqusqa karqankuchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿En tu casa hay alguien enfermo?",
+      "qu": "¿Wasiykipi pillapis unqusqa kanchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿De qué está enfermo?",
+      "qu": "¿Imamanta unqusqa kachkan?",
+      "ay": ""
+    },
+    {
+      "es": "¿La gente de tu casa están sanos?",
+      "qu": "¿Wasiykipi runakuna allillanchu kakuchkanku?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tu papá y tu mamá viven?",
+      "qu": "¿Tatayki mamayki kawsakunkuchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tienes hermanos?",
+      "qu": "¿Wawqikunayki tiyapusunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tienes hermanas?",
+      "qu": "¿Ñañakunayki tiyapusunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tienes hijos?",
+      "qu": "¿Wawakunayki tiyapusunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántos?",
+      "qu": "¿Machkha?",
+      "ay": ""
+    },
+    {
+      "es": "¿Están sanos?",
+      "qu": "¿Thanillachu kakuchkanku?",
+      "ay": ""
+    },
+    {
+      "es": "¿Están enfermos?",
+      "qu": "¿Unqusqachu kachkanku?",
+      "ay": ""
+    },
+    {
+      "es": "¿De cuántos años? (referente a edad)",
+      "qu": "¿Machkha watayuq?",
+      "ay": ""
+    },
+    {
+      "es": "¿De cuántos meses?",
+      "qu": "¿Machkha killayuq?",
+      "ay": ""
+    },
+    {
+      "es": "¿De cuántos días?",
+      "qu": "¿Machkha p’unchawniyuq?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo estás?",
+      "qu": "¿Imaynalla kachkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo has estado en la noche?",
+      "qu": "¿Tutarí imaynalla karqanki?",
+      "ay": ""
+    },
+    {
+      "es": "Espera te voy a revisar",
+      "qu": "Suyarikuy qhawasqayki",
+      "ay": ""
+    },
+    {
+      "es": "Siéntese",
+      "qu": "Tiyarikuy",
+      "ay": ""
+    },
+    {
+      "es": "Dé la vuelta",
+      "qu": "Tikrarikuy",
+      "ay": ""
+    },
+    {
+      "es": "Échese del lado izquierdo",
+      "qu": "Lluq’inmanta siriykuy",
+      "ay": ""
+    },
+    {
+      "es": "Échese del lado derecho",
+      "qu": "Pañanmanta siriykuy.",
+      "ay": ""
+    },
+    {
+      "es": "No se mueva",
+      "qu": "Ama kuyuychu",
+      "ay": ""
+    },
+    {
+      "es": "Quítese la ropa",
+      "qu": "P’achaykita urqhukuy",
+      "ay": ""
+    },
+    {
+      "es": "Quítese la ropa interior",
+      "qu": "Ukhu p’achaykita urqhukuy",
+      "ay": ""
+    },
+    {
+      "es": "Voy a examinar tu corazón",
+      "qu": "Sunquykita qhawarisaq",
+      "ay": ""
+    },
+    {
+      "es": "Voy a examinar tus pulmones",
+      "qu": "Surq’ankunaykita qhawarisaq",
+      "ay": ""
+    },
+    {
+      "es": "Voy a examinar tu espalda",
+      "qu": "Wasaykita qhawarisaq",
+      "ay": ""
+    },
+    {
+      "es": "Voy a examinar tu abdomen",
+      "qu": "Wiksaykita qhawarisaq",
+      "ay": ""
+    },
+    {
+      "es": "Voy a examinar tus riñones",
+      "qu": "Lurunkunaykita qhawarisaq",
+      "ay": ""
+    },
+    {
+      "es": "Voy a examinar tus genitales",
+      "qu": "P’inqanaykita qhawarisaq",
+      "ay": ""
+    },
+    {
+      "es": "Respira como si estuvieses cansado",
+      "qu": "Samay sayk’usqapis kachkawaqjina",
+      "ay": ""
+    },
+    {
+      "es": "Di en voz alta 33",
+      "qu": "Kallpawan niway 33",
+      "ay": ""
+    },
+    {
+      "es": "Di en voz (cuchicheada) baja 33",
+      "qu": "Thutuspajinalla niway 33",
+      "ay": ""
+    },
+    {
+      "es": "Tome una respiración profunda... espere... respire",
+      "qu": "Jatunmanta samariy... suyakuy... samay",
+      "ay": ""
+    },
+    {
+      "es": "Muéstrame donde te duele",
+      "qu": "Maypi nanasunki chay chhiqanta rikhuchiway",
+      "ay": ""
+    },
+    {
+      "es": "Dime si te duele cuando oprimo aquí",
+      "qu": "Kaypi ñit’isuqtiy nanasunkichu manachu chayta willawanki",
+      "ay": ""
+    },
+    {
+      "es": "Dime si te duele cuando golpeo aquí",
+      "qu": "Kaypi takasuqtiy nanasunkichu manachu chayta willawanki.",
+      "ay": ""
+    },
+    {
+      "es": "Dime si te duele cuando hago esto",
+      "qu": "Kayta ruwaqtiy nanasunkichu manachu, chayta willawanki",
+      "ay": ""
+    },
+    {
+      "es": "Haz fuerza como si quisieras hacer caca",
+      "qu": "Akaytapis munachkawaqjina kallpata ruway.",
+      "ay": ""
+    },
+    {
+      "es": "Abra grande la boca",
+      "qu": "Simiykita jatunta kichariy",
+      "ay": ""
+    },
+    {
+      "es": "Saque la lengua",
+      "qu": "Qalluykita sik’iy",
+      "ay": ""
+    },
+    {
+      "es": "Camine",
+      "qu": "Puriykachay",
+      "ay": ""
+    },
+    {
+      "es": "Mueva el cuello",
+      "qu": "Kunkaykita kuyuchiy",
+      "ay": ""
+    },
+    {
+      "es": "Mueva el hombro",
+      "qu": "Rikraykita kuyuchiy",
+      "ay": ""
+    },
+    {
+      "es": "Mueva el codo",
+      "qu": "Maki muquykita kuyuchiy",
+      "ay": ""
+    },
+    {
+      "es": "Mueva la mano",
+      "qu": "Makiykita kuyuchiy",
+      "ay": ""
+    },
+    {
+      "es": "Mueva la espalda",
+      "qu": "Wasaykita kuyuchiy",
+      "ay": ""
+    },
+    {
+      "es": "Mueva la rodilla",
+      "qu": "Chaki muquykita kuyuchiy",
+      "ay": ""
+    },
+    {
+      "es": "Mueva el pie",
+      "qu": "Chakiykita kuyuchiy",
+      "ay": ""
+    },
+    {
+      "es": "Yo lo voy a mover",
+      "qu": "Ñuqa kuyuchisaq",
+      "ay": ""
+    },
+    {
+      "es": "¿En esta posición te duele?",
+      "qu": "¿Ajinapi kaspa nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "Mire esta luz",
+      "qu": "Kay k’anchata qhaway",
+      "ay": ""
+    },
+    {
+      "es": "Mire mi dedo sin mover la cabeza",
+      "qu": "Mana umaykita kuyuchispa rukanayta qhaway.",
+      "ay": ""
+    },
+    {
+      "es": "No mueva los ojos",
+      "qu": "Ama ñawiykita kuyuchiychu",
+      "ay": ""
+    },
+    {
+      "es": "No parpadees",
+      "qu": "Ama ch’irmipayaychu",
+      "ay": ""
+    },
+    {
+      "es": "Pon tu mano a un ojo (Cúbrase el ojo)",
+      "qu": "Makiykita ñawiyki chhiqanman churay",
+      "ay": ""
+    },
+    {
+      "es": "Dime cuantos dedos ves",
+      "qu": "Machkha ruk’anakunata rikunki willaway. Uno Dos Tres Cuatro Cinco Juk Iskay Kimsa Tawa Phichqa",
+      "ay": ""
+    },
+    {
+      "es": "Dime qué estás viendo",
+      "qu": "Imata qhawachkanki chayta willaway.",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo?",
+      "qu": "¿Mayk’aqmantapacha?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántos días?",
+      "qu": "¿Machkha p’unchawñataq?",
+      "ay": ""
+    },
+    {
+      "es": "¿Un rato?",
+      "qu": "¿Pisi pisillatachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Un día?",
+      "qu": "¿Juk p’unchawtachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Dos días?",
+      "qu": "¿Iskay p’unchawtachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tres días?",
+      "qu": "¿Kimsa p’unchawtachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Una Semana?",
+      "qu": "¿Juk semanatachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Un mes?",
+      "qu": "¿Juk Killatachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Un año?",
+      "qu": "¿Juk watatachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Dos Años?",
+      "qu": "¿Iskay watatachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Varios años?",
+      "qu": "¿Achkha watatachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo?",
+      "qu": "¿Mayk’aq?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo empezó?",
+      "qu": "¿Mayk’aq qallarirqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te has hecho eso?",
+      "qu": "¿Mayk’aq chayta ruwaqurqanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo ha sucedido?",
+      "qu": "¿Mayk’aq karqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo ha aparecido?",
+      "qu": "¿Mayk’aq rikhurirqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Hace un ratito?",
+      "qu": "¿Kunitallanchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya es una hora?",
+      "qu": "¿Juk horañachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya es un día?",
+      "qu": "¿Juk p’unchawñachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya es dos días?",
+      "qu": "¿Iskay p’unchawñachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya es tres días?",
+      "qu": "¿Kimsa p’unchawñachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya es una semana?",
+      "qu": "¿Juk semanañachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya es un mes?",
+      "qu": "¿Juk killañachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya es un año?",
+      "qu": "¿Juk watañachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya es dos años?",
+      "qu": "¿Iskay watañachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya es varios años?",
+      "qu": "¿Achkha watañachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿A qué rato del día?",
+      "qu": "¿Ima ratutataq p’unchawpi?",
+      "ay": ""
+    },
+    {
+      "es": "¿A qué hora del día?",
+      "qu": "¿Ima horatataq p’unchawpi?",
+      "ay": ""
+    },
+    {
+      "es": "¿En la mañana?",
+      "qu": "¿Paqarintachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿En la tarde?",
+      "qu": "¿Sukhatachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿En la noche?",
+      "qu": "¿Tutapichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Toda la noche?",
+      "qu": "¿Tukuy tutachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Todo el día?",
+      "qu": "¿Tukuy p’unchawchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo era?",
+      "qu": "¿Imaynataq karqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Era con sangre?",
+      "qu": "¿Llawarwanchu karqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Era con pus?",
+      "qu": "¿Q’iyawanchu karqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántas veces al día?",
+      "qu": "¿Machkha kutitataq sapa p’unchaw?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántas veces?",
+      "qu": "¿Machkha kutitataq?",
+      "ay": ""
+    },
+    {
+      "es": "¿Una vez?",
+      "qu": "¿Juk kutitachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cada vez estás más enfermo? (¿está empeorando?)",
+      "qu": "¿Sapa kutichu astawan unqusqa kachkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ha empezado de repente?",
+      "qu": "¿Qhasillamantachu qallarin?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te está doliendo?",
+      "qu": "¿Nanachkasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te está doliendo ahora?",
+      "qu": "¿Kunan nanachkasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Qué te duele?",
+      "qu": "¿Imayki nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Dónde te duele?",
+      "qu": "¿Maypitaq nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo te duele?",
+      "qu": "¿Mayk’aqmantapacha nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuánto tiempo te duele?",
+      "qu": "¿Machkha unayta nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele hace tiempo?",
+      "qu": "¿Unayñachu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cada vez te duele?",
+      "qu": "¿Sapa kutichu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Antes te ha dolido igual?",
+      "qu": "¿Ñawpaqta kikillantataqchu nanarqasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Dónde empezó?",
+      "qu": "¿Maymantataq qallarirqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Dónde comenzó tu dolor?",
+      "qu": "¿Maypi nanayniyki qallarin?",
+      "ay": ""
+    },
+    {
+      "es": "¿Camina ese tu dolor?",
+      "qu": "¿Ithiykachanchu chay nanayniyki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Dónde ha ido ese dolor?",
+      "qu": "¿Mayman ithirin chay nanay?",
+      "ay": ""
+    },
+    {
+      "es": "¿Señala dónde ha ido ese dolor?",
+      "qu": "¿Mayman ithirin chay nanay chayta rikhuchiway?",
+      "ay": ""
+    },
+    {
+      "es": "¿Sin parar te está doliendo?",
+      "qu": "¿Mana samarispachu nanachkasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor empieza y se pierde, empieza y se pierde?",
+      "qu": "¿Nanay qallarintaq chinkarintaq, qallarintaq chinkarintaqchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿De rato en rato te duele?",
+      "qu": "¿Ratumanta ratuchu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor se pierde?",
+      "qu": "¿Nanay chinkarinchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿A qué hora te duele?",
+      "qu": "¿Ima horata nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿En la mañana te duele?",
+      "qu": "¿Paqarintachu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿En la noche te duele?",
+      "qu": "¿Tutantachu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Todo el día te duele?",
+      "qu": "¿Tukuy p’unchawchu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Un rato duele?",
+      "qu": "¿Juk ratitullachu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Mucho rato duele?",
+      "qu": "¿Unay unaytachu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo es tu dolor?",
+      "qu": "¿Imaynatataq nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Mucho te está doliendo?(¿intenso?)",
+      "qu": "¿Anchatachu nanachkasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo punzada te está doliendo?",
+      "qu": "¿T’uqsisqajinachu nanachkasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te está quemando?",
+      "qu": "¿Ruphachkasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te oprime?",
+      "qu": "¿Mat’iykusunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te retuerce?",
+      "qu": "¿Q’iwisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele más cuando te mueves?",
+      "qu": "¿Kuyuqtiyki astawanchu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele más cuando comes?",
+      "qu": "¿Mikhuqtiyki astawanchu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele más cuando respiras?",
+      "qu": "¿Samaqtiyki astawanchu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele más cuando caminas?",
+      "qu": "¿Puriqtiyki astawanchu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Has tomado algo para aliviar el dolor?",
+      "qu": "¿Nanayta pisiyachinaykipaq imallatapis ukyarqankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Qué te mejora el dolor?",
+      "qu": "¿Imataq allinllachisunki nanayniykimanta?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor ha empezado de repente?",
+      "qu": "¿Nanay qhasillamantachu qallarin?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor ha empezado poco a poco?",
+      "qu": "¿Nanay pisi pisillamantachu qallarin?",
+      "ay": ""
+    },
+    {
+      "es": "¿Puedes mover tus dedos en las mañanas?",
+      "qu": "¿Paqarinkuna ruk’anaykikunata kuyuchiyta atillankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿No puedes mover tus dedos en las mañanas?",
+      "qu": "¿Paqarinkuna ruk’anaykikunata manachu kuyuchiyta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor aumenta cuando estás trabajando?",
+      "qu": "¿Llamk’asaqtiyki astawanchu nanay yapaykukun?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor es igual cuando descansas?",
+      "qu": "¿Samakuqtiyki nanay kikillanchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor te deja dormir?",
+      "qu": "¿Nanay puñuqta saqisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor te deja trabajar?",
+      "qu": "¿Nanay llamk’aqta saqisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuando estás en el frio te duele?",
+      "qu": "¿Chiripi kaqtiyki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuando estás en el calor te duele?",
+      "qu": "¿Q’uñipi kaqtiyki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor cada vez está peor?",
+      "qu": "¿Sapa kuti astawanchu nanachkasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Dónde te duele, se hincha?",
+      "qu": "¿Nanasunki chay chhiqan punkinchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te has caído?",
+      "qu": "¿Urmakurqankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te has golpeado?",
+      "qu": "¿Takaykukurqankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele la cabeza?",
+      "qu": "¿Umayki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele toda la cabeza?",
+      "qu": "¿Tukuy umaykichu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Solo un lado de tu cabeza te duele?",
+      "qu": "¿Juk ladullachu umayki nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Le duele detrás de la cabeza? (¿en la nuca?)",
+      "qu": "¿Much’uykichu nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele en la frente?",
+      "qu": "¿Mat’iykiniq nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele en el cuello?",
+      "qu": "¿Kunkaykiniq nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Chispas de fuego ves?",
+      "qu": "¿Nina chispakunata rikhunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Chispas de fuego has visto?",
+      "qu": "¿Nina chispakunata rikhurqankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tienes fiebre?",
+      "qu": "¿Ukhuyki k’ajanchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo tienes fiebre?",
+      "qu": "¿Mayk’aqmantapacha ukhu k’ajayniyuq kachkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿A qué hora tienes fiebre?",
+      "qu": "¿Ima horata ukhuyki k’ajan?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tienes escalofríos?",
+      "qu": "¿Chiri chirichu jap’isunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Sudas en la noche?",
+      "qu": "¿Tuta jump’inkichu?",
+      "ay": ""
+    },
+    {
+      "es": "Pérdida de Peso, Anorexia, Astenia,",
+      "qu": "Somnolencia",
+      "ay": ""
+    },
+    {
+      "es": "¿No tiene ganas de comer?",
+      "qu": "¿Manachu mikhuyta munanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te sientes cansado?",
+      "qu": "¿Sayk’ullankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te siente como cansado y con sueño durante todo el día?",
+      "qu": "¿Sayk’usqa jinallachu, mana chayqa puñuyllachu tukuy p’unchaw atisunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha dado vueltas la cabeza?",
+      "qu": "¿Umayki muyusunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Estás durmiendo bien?",
+      "qu": "¿Waliqllatachu puñuchkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿No has podido dormir?",
+      "qu": "¿Manachu puñuyta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te despiertas en las noches?",
+      "qu": "¿Tutapi rikch’aykachankichu?",
+      "ay": ""
+    },
+    {
+      "es": "Muéstrame donde te está escociendo",
+      "qu": "Rikhuchiway maypi siqsichkasunki",
+      "ay": ""
+    },
+    {
+      "es": "¿Te pones de color morado?",
+      "qu": "¿Kulliyankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Se pone de color morado?(En tercera persona)",
+      "qu": "¿Kulliyanchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te pones de color amarillo?",
+      "qu": "¿Q’illuyankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Se pone de color amarillo? (En tercera persona)",
+      "qu": "¿Q’illuyanchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo te pones amarillo?",
+      "qu": "¿Mayk’aqmantapacha q’illuyanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo se pone amarillo? (En tercera persona)",
+      "qu": "¿Mayk’aqmantapacha q’illuyan?",
+      "ay": ""
+    },
+    {
+      "es": "Antecedente de Lipotimia, Sincope,",
+      "qu": "Antecedente Convulsivo",
+      "ay": ""
+    },
+    {
+      "es": "¿Alguna vez has perdido la conciencia?",
+      "qu": "¿Jukllatapis yuyayniyki chinkasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo has perdido la conciencia?",
+      "qu": "¿Mayk’aq yuyayniyki chinkasurqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántas veces has perdido la conciencia?",
+      "qu": "¿Machkha kutita yuyayniykita chinkachinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿En cuánto tiempo te has recuperado?",
+      "qu": "¿Machkha unaypi alliyapurqanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te estabas cansando?",
+      "qu": "¿Sayk’uykuchkarqankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te has asustado?",
+      "qu": "¿Mancharikunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿De por sí has perdido la conciencia?",
+      "qu": "(sin ningún motivo) ¿Qhasillamantachu yuyayniykita chinkachirqanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Alguna vez te ha dado ataque?",
+      "qu": "(referente a convulsiones) ¿Jukllatapis t’ukuwan jap’ichikuy yachankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te ha dado ataque?",
+      "qu": "¿Mayk’aq t’ukuwan jap’ichikurqanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántas veces te ha dado ataque?",
+      "qu": "¿Machkha kutita t’ukuwan jap’ichikurqanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Estás Tosiendo?",
+      "qu": "¿Ch’ujuchkankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo estas tosiendo?",
+      "qu": "¿Mayk’aqmantapacha ch’ujuchkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele el pecho al toser?",
+      "qu": "¿Ch’ujuqtiyki pichuykita nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Estás escupiendo flemas cuando toses?",
+      "qu": "¿Ch’ujuspa llawsatachu thuqachkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Estás escupiendo flemas?",
+      "qu": "¿Llawsatachu thuqachkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Has escupido con sangre?",
+      "qu": "¿Llawarniyuqtachu thuqanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Qué cantidad de flema escupes al día?",
+      "qu": "¿Juk p’unchaw machkha llawsata thuqanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿No puedes respirar?",
+      "qu": "¿Manachu samayta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo no puedes respirar?",
+      "qu": "¿Mayk’aqtaq mana samayta atinkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo caminas, no puedes respirar?",
+      "qu": "¿Purinki chayri, manachu samayta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te acuestas, no puedes respirar?",
+      "qu": "¿P’uñuq siriykapuspari, manachu samayta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Todo el día, no puedes respirar?",
+      "qu": "¿Tukuy p’unchaw, manachu samayta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuánto puedes caminar sin cansarte?",
+      "qu": "¿Machkha karuta mana sayk’uspa puriyta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Una calle?",
+      "qu": "¿Juk calletachu?",
+      "ay": ""
+    },
+    {
+      "es": "Cuánto puedes subir sin cansarte?",
+      "qu": "¿Machkha karuta mana sayk’uspa wichariyta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Un piso?",
+      "qu": "¿Juk pisotachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Algunas noches despiertas sin poder respirar?",
+      "qu": "¿Wakin tutakuna mana samayta atispa rikch’arirpay yachankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Con cuántas almohadas duermes?",
+      "qu": "¿Machkha sawnayuq puñunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Con una almohada?",
+      "qu": "¿Juk sawnayuqchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Con dos almohadas?",
+      "qu": "¿Iskay sawnayuqchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Con tres almohadas?",
+      "qu": "¿Kimsa sawnayuqchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Se te hinchan los pies?",
+      "qu": "¿Chakikunayki punkiykunchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Se te hincha la cara?",
+      "qu": "¿Uyayki punkiykusunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo se hincha?",
+      "qu": "¿Mayk’aqtaq punkin?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tienes dolor en el pecho?",
+      "qu": "¿Pichuyki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor va al hombro?",
+      "qu": "¿Nanay rikraykimanchu rin?",
+      "ay": ""
+    },
+    {
+      "es": "¿El dolor va al cuello?",
+      "qu": "¿Nanay kunkaykimanchu rin?",
+      "ay": ""
+    },
+    {
+      "es": "El dolor va al brazo?",
+      "qu": "¿Nanay makiykimanchu rin?",
+      "ay": ""
+    },
+    {
+      "es": "¿Aquí se está adormeciendo? (señalando el lugar)",
+      "qu": "¿Kaypichu chhuchunkasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te duele?",
+      "qu": "¿Mayk’aqtaq nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo caminas?",
+      "qu": "¿Puriqtiykichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo subes Escalera?",
+      "qu": "¿Escalera wichariqtiykichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te acuestas?",
+      "qu": "¿Puñuq siriykapuqtiykichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te asustas?",
+      "qu": "¿Mancharikuqtiykichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te enojas?",
+      "qu": "¿Phiñarikuqtiykichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te alegras?",
+      "qu": "¿Kusirikuqtiykichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿No puedes respirar cuando te da el dolor?",
+      "qu": "¿Nanasuqtin manachu samayta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tu corazón golpea?",
+      "qu": "¿Sunquyki tuktukiyanchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tu corazón golpea mucho?",
+      "qu": "¿Sunquyki anchatachu tuktukiyan?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo golpea tu corazón?",
+      "qu": "¿Mayk’aq sunquyki tuktukiyan?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo subes escaleras?",
+      "qu": "¿Escalerata wichariqtiykichu?",
+      "ay": ""
+    },
+    {
+      "es": "De la vuelta",
+      "qu": "Kutirikuy",
+      "ay": ""
+    },
+    {
+      "es": "¿No puedes tragar?",
+      "qu": "¿Manachu uquykuyta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele la garganta al comer?",
+      "qu": "¿Kunkayki mikhuqtiyki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "Eliminación de Heces y Gases, Diarrea,",
+      "qu": "Constipación, Tenesmo",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántas veces al día defecas?",
+      "qu": "¿Machkha kutita sapa p’unchaw akanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cada dos días?",
+      "qu": "¿Sapa iskay p’unchawchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tienes diarrea?",
+      "qu": "¿Q’ichalirawanchu kachkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo tienes diarrea?",
+      "qu": "¿Mayk’aqmantapacha q’ichachkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántas veces te ha dado diarrea al día?",
+      "qu": "¿Sapa p’unchaw, machkha kutita q’ichanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo era la diarrea?",
+      "qu": "¿Imayna qich’a karqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿No has podido defecar?",
+      "qu": "¿Manachu akayta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo son tus Heces?",
+      "qu": "¿Imaynataq akayki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele al defecar?",
+      "qu": "¿Akachkaqtiyki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿No has podido expulsar gases?",
+      "qu": "¿Manachu supiyta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo no puedes defecar?",
+      "qu": "¿Mayk’aqmantapacha mana akayta atinkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo no has podido expulsar gases?",
+      "qu": "¿Mayk’aqmantapacha mana supiyta atinkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tres días",
+      "qu": "¿Kimsa p’unchawñachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Sientes ganas de defecar pero no puedes defecar?",
+      "qu": "¿Akayta munankitaq manataqchu akayta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Has tenido ganas de vomitar?",
+      "qu": "¿Kutichiytachu munanayanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántas veces al día has vomitado?",
+      "qu": "¿Juk p’unchaw machkha kutita kutichinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo estás vomitando?",
+      "qu": "¿Mayk’aqmantapacha kutichichkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Qué cantidad era lo que has vomitado?",
+      "qu": "¿May chhikataq kutichisqayki karqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo era el vómito?",
+      "qu": "¿Imaynataq kutichisqayki karqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te sale mucha saliva?",
+      "qu": "¿Thuqayniyki anchatachu surumusunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Se te hincha el abdomen?",
+      "qu": "¿Wisayki punkisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Has comido con grasas?",
+      "qu": "¿Wirayuqtachu mikhurqanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele al orinar?",
+      "qu": "¿Jisp’aqtiyki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te duele más, al orinar?",
+      "qu": "¿Mayk’aqtaq astawan nanasunki, jisp’aqtiyki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele cuando empiezas a orinar?",
+      "qu": "¿Jisp’ayta qallariqtiyki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele cuando estás orinando?",
+      "qu": "¿Jisp’achkaqtiyki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duele cuando terminas de orinar?",
+      "qu": "¿Jisp’ayta tukuqtiyki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo te duele al orinar?",
+      "qu": "¿Mayk’aqmantapacha jisp’aqtiyki nanasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te escuece al orinar?",
+      "qu": "¿Jisp’aqtiyki siqsisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántas veces al día orinas?",
+      "qu": "¿Juk p’unchaw machkha kutita jisp’anki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Muchas veces en el día orinas?",
+      "qu": "¿Juk p’unchawllapi achkha kutitachu jisp’anki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Estás orinando muy poco?",
+      "qu": "¿Pisisitutachu jisp’achkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Estás orinando gotitas?",
+      "qu": "¿Sut’uy sut’uyllatachu jisp’achkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te levantas en la noche para orinar?",
+      "qu": "¿Tuta jisp’aq jatarinkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿No has podido orinar?",
+      "qu": "¿Manachu jisp’ayta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Sientes ganas de orinar pero no puedes orinar?",
+      "qu": "¿Jisp’ay munanayankitaq manataq jisp’ayta atinkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tu orina tiene mal olor?",
+      "qu": "¿Jisp’ayniyki asnachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo es tu orina?",
+      "qu": "¿Imaynataq jisp’ayniyki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tiene sangre?",
+      "qu": "¿Llawarniyuqchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te vence la orina? (¿Se te escapa la orina?)",
+      "qu": "¿Jisp’ay atipasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo te vence la orina?",
+      "qu": "¿Mayk’aqtaq jisp’ay atipasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo ríes?",
+      "qu": "¿Asiqtiykichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo toses?",
+      "qu": "¿Ch’ujuqtiykichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Todo el tiempo se te escapa la orina?",
+      "qu": "¿Tukuy ratuchu jisp’ayniyki atipasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántos años tenías cuando te vino tu regla?",
+      "qu": "¿Machkha watayuq karqanki llawarniyki jamuchkasuqtin?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te viene todavía tu regla?",
+      "qu": "¿Llawarniyki jamusunkiraqchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo se ha perdido tu regla?",
+      "qu": "¿Llawarniyki mayk’aqña ch’akipun?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cada mes te viene?",
+      "qu": "¿Sapa killachu jamusunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Qué día ha empezado tu regla?",
+      "qu": "¿Llawarniyki ima p’unchaw qallarirqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tu última regla, cuando fue?",
+      "qu": "¿Qhipa llawarniyki jamusuq, mayk’aq karqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántos días te dura la regla?",
+      "qu": "¿Llawarniyki machkha p’unchawta jamusunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Qué cantidad te viene?",
+      "qu": "¿Machkhajina jamusunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Todos los meses te viene igual?",
+      "qu": "¿Sapa killachu kikinta jamusunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Todos los meses es diferente?",
+      "qu": "¿Sapa killachu jukjina jamusunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿No te viene la regla?",
+      "qu": "¿Llawarniyki manachu jamusunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Desde cuándo no te viene la regla?",
+      "qu": "¿Llawarniyki mayk’aqmantapacha mana jamusunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Estás embarazada?",
+      "qu": "¿Unquqchu kachkanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Todo el mes te ha venido tu regla?",
+      "qu": "¿Llawarniyki killantinchu jamusunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Todo el mes te ha venido gotas?",
+      "qu": "¿Llawarniyki killantinchu sut’uy sut’uylla jamusunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿En qué año has tenido tu último hijo?",
+      "qu": "¿Sullk’a wawayki ima watapi kapusurqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántos años tiene tu hijo menor?",
+      "qu": "¿Sullk’a wawayki machkha watayuqtaq?",
+      "ay": ""
+    },
+    {
+      "es": "¿En algún embarazo tu hijo se ha muerto en",
+      "qu": "tuvientre? ¿Mayqin unquq kasqallaykipipis juk kutillapis wisaykipi wawa wañurqachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Alguna vez al nacer tu hijo se ha muerto?",
+      "qu": "¿Mayk’aqllapis wawayki yurikuchkaspa wañupurqachu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Pequeñito se ha muerto tu hijo?",
+      "qu": "¿Wawayki juch’uysituchu wañupurqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿De cuántos años?",
+      "qu": "¿Machkha watayuq?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha bajado como mucha agua?",
+      "qu": "¿Achkha yakujinachu uraqamusunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te está bajando como agua blanca?",
+      "qu": "¿Yuraq yakujinachu uraqamuchkasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ocasiona escozor?",
+      "qu": "¿Siqsichisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tienes la vista borrosa?",
+      "qu": "¿Chharpatachu qhawanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ves bien de lejos?",
+      "qu": "¿Karuman sumaqtachu qhawanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ves bien de cerca?",
+      "qu": "¿Qayllaman sumaqtachu qhawanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿La luz te hace doler tus ojos?",
+      "qu": "¿Ñawikunaykita k’anchay nanachisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Se cansan tus ojos?",
+      "qu": "¿Ñawikunayki sayk’unchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te escuecen los ojos?",
+      "qu": "¿Ñawikunayki siqsisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te arden los ojos?",
+      "qu": "¿Ñawikunayki k’arasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te duelen los ojos?",
+      "qu": "¿Ñawikunayki nanasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te salen lágrimas?",
+      "qu": "¿Waqay lluqsimusunchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Has despertado con lagañas?",
+      "qu": "¿Ch’uqñiyuqchu rikch’arimunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te has golpeado el ojo?",
+      "qu": "¿Ñawiykita takaykukunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha entrado basura al ojo?",
+      "qu": "¿Ñawiykiman q’upa yaykurqasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tienes lentes?",
+      "qu": "¿Lentes tiyapusunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "Dime cuántos dedos ves",
+      "qu": "Willaway machkha rukanakunata qhawanki",
+      "ay": ""
+    },
+    {
+      "es": "¿Puedes respirar por la nariz?",
+      "qu": "¿Sinqaykiniqta samayta atinkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha salido sangre de la nariz?",
+      "qu": "¿Sinqaykimanta llawar lluqsimunchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha salido pus de la nariz?",
+      "qu": "¿Sinqaykimanta q’iya lluqsimunchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuándo ha comenzado a salir sangre de tu",
+      "qu": "nariz? ¿Mayk’aqtaq llawar sinqaykimanta lluqsimuyta qallarirqa?",
+      "ay": ""
+    },
+    {
+      "es": "¿La sangre ha empezado de por sí?",
+      "qu": "(¿Empezó espontáneamente?) ¿Llawar qhasillamantachu lluqsimuyta qallarin?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha salido sangre antes?",
+      "qu": "¿Unay llawar lluqsimusuqchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Todas las cosas huelen mal para tí?",
+      "qu": "¿Qampaq tukuy imachu millayta q’apan?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te está doliendo el oído?",
+      "qu": "¿Rinriyki nanachkasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha salido sangre del oído?",
+      "qu": "¿Rinriykimanta llawar lluqsisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha salido pus del oído?",
+      "qu": "¿Rinriykimanta q’iya lluqsimusunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya no puedes escuchar bien?",
+      "qu": "¿Manachu sumaqta uyariyta atinki?",
+      "ay": ""
+    },
+    {
+      "es": "Estás enfermo de... Neumonía",
+      "qu": "Neumoniawan unqusqa kachkanki",
+      "ay": ""
+    },
+    {
+      "es": "Del pulmón estás enfermo",
+      "qu": "Surq’anmanta unqusqa kachkanki",
+      "ay": ""
+    },
+    {
+      "es": "Del pulmón está enfermo (refiriéndose a una tercera persona)",
+      "qu": "Surq’anmanta unqusqa kachkan",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que hacerte una radiografía",
+      "qu": "Radiografiata urquchikunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que hacerte un análisis de sangre",
+      "qu": "Llawarniykimanta analisista ruwachikunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que hacerte un análisis de orina",
+      "qu": "Jisp’ayniykimanta analisista ruwachikunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que hacerte un análisis de la flema que",
+      "qu": "escupes al toser Ch’ujuspa llawsa thuqasqaykimanta analisista ruwachikunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que hacerte un análisis de esa pus",
+      "qu": "Chay q’iyamanta analisista ruwachikunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Con los resultados vas a volver",
+      "qu": "Resultadukunawan kutimunki",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que quedarte en el hospital",
+      "qu": "Hospitalpi qhipakunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Tiene que quedarse en el hospital (refiriéndose a una tercera persona)",
+      "qu": "Hospitalpi qhipakunan tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que hacerte operar",
+      "qu": "Operachikunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Tiene que hacerse operar (refiriéndose a una tercera persona)",
+      "qu": "Operachikunan tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Esto hay que limpiar para curar",
+      "qu": "Kayta jampinapaq mayllana tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Esto tenemos que coser",
+      "qu": "Kayta siranayku tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Hay que poner yeso",
+      "qu": "Yesota churana tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Hay que poner inyección",
+      "qu": "Inyeccionta churana tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Hay que poner un suero",
+      "qu": "Suerota churana tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Hay que poner sonda",
+      "qu": "Sondata churana tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Este medicamento tienes que tomar",
+      "qu": "Kay jampita ukyanayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Este medicamento tiene que tomar (refiriéndose a una tercera persona)",
+      "qu": "Kay jampita ukyanan tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Este medicamento tienes que tragar",
+      "qu": "Kay jampita uquykunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Este medicamento tiene que tragar (refiriéndose a una tercera persona)",
+      "qu": "Kay jampita uquykunan tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Al despertar... Una cucharada... Vas a tomar",
+      "qu": "Rijcharispa... Uj cucharata... Ujyaykunki",
+      "ay": ""
+    },
+    {
+      "es": "En la mañana... Dos cucharadas... Va a tomar Paqarimpi... Iskay cucharata.. (refiriéndose a una",
+      "qu": "tercera persona) Ujyaykunqa",
+      "ay": ""
+    },
+    {
+      "es": "Antes de comer... Una pildora... Vas a tragar",
+      "qu": "Q’utuykunki Manaraj mikusaspa... Uj pildorata...",
+      "ay": ""
+    },
+    {
+      "es": "En la tarde... Tres pildoras... Le vas a hacer tragar",
+      "qu": "Tardepi... Kinsa pidorata... Q’utuchinki",
+      "ay": ""
+    },
+    {
+      "es": "En la noche... Con esta pomada.. Te vas a untar",
+      "qu": "Tutapi... Kayjawinawan... Jawikunki",
+      "ay": ""
+    },
+    {
+      "es": "Una gota Se va a untar Uj (refiriéndose a una Con estas sufuta tercera persona)",
+      "qu": "Jawikunqa",
+      "ay": ""
+    },
+    {
+      "es": "Antes de dormir... gotas... Dos gotas Le vas a untar",
+      "qu": "Iskay Jawinki Manaraj puñusaspa... Kay sufuta sut’uchiTe vas hacer gotear Sut’uchikunki nawan...",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que ir a un especialista",
+      "qu": "Juk especialistaman rinayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Vas a volver si te da lo mismo",
+      "qu": "Kikillanpuni kaspaqa kutimunki",
+      "ay": ""
+    },
+    {
+      "es": "Vas a volver...",
+      "qu": "Kutimunki...",
+      "ay": ""
+    },
+    {
+      "es": "De un día;",
+      "qu": "Juk p’unchawmanta",
+      "ay": ""
+    },
+    {
+      "es": "De dos días",
+      "qu": "Iskay p’unchawmanta",
+      "ay": ""
+    },
+    {
+      "es": "De tres días",
+      "qu": "Kimsa p’unchawmanta",
+      "ay": ""
+    },
+    {
+      "es": "De una Semana",
+      "qu": "Juk semanamanta",
+      "ay": ""
+    },
+    {
+      "es": "De dos semanas",
+      "qu": "Iskay semanamanta",
+      "ay": ""
+    },
+    {
+      "es": "De tres semanas",
+      "qu": "Kimsa semanamanta",
+      "ay": ""
+    },
+    {
+      "es": "De un mes",
+      "qu": "Juk killamanta",
+      "ay": ""
+    },
+    {
+      "es": "De dos meses",
+      "qu": "Iskay killamanta",
+      "ay": ""
+    },
+    {
+      "es": "De tres meses",
+      "qu": "Kimsa killamanta",
+      "ay": ""
+    },
+    {
+      "es": "De un año",
+      "qu": "Juk watamanta",
+      "ay": ""
+    },
+    {
+      "es": "De dos años",
+      "qu": "Iskay watamanta",
+      "ay": ""
+    },
+    {
+      "es": "De tres años",
+      "qu": "Kimsa watamanta",
+      "ay": ""
+    },
+    {
+      "es": "No estás tan enfermo (no es nada grave)",
+      "qu": "Mana ancha unqusqachu kanki",
+      "ay": ""
+    },
+    {
+      "es": "No tengas miedo",
+      "qu": "Ama mancharikuychu",
+      "ay": ""
+    },
+    {
+      "es": "No te preocupes",
+      "qu": "Ama llakikuychu",
+      "ay": ""
+    },
+    {
+      "es": "Te vamos a ayudar",
+      "qu": "Yanapasusqayku",
+      "ay": ""
+    },
+    {
+      "es": "Te vas a sanar",
+      "qu": "Thaniyakunki",
+      "ay": ""
+    },
+    {
+      "es": "Se va a sanar (refiriéndose a una tercera persona)",
+      "qu": "Thaniyakunqa",
+      "ay": ""
+    },
+    {
+      "es": "¿Te puedo hacer algunas preguntas personales?",
+      "qu": "¿Tapuriykimanchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Alguna vez tu marido te ha lastimado?",
+      "qu": "¿Jayk’aqllapis qusayki maqayta yachasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Alguna vez tu pareja te ha lastimado?",
+      "qu": "¿Jayk’aqllapis yananchayki maqayta yachasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha dado empujones? (¿te empujonea?)",
+      "qu": "¿Tanqaykachasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha golpeado con el puño? (¿te ha dado puñetazos?)",
+      "qu": "¿Saqmaykachasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te pellizca?",
+      "qu": "¿K’ichisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha dado patadas?",
+      "qu": "¿Jayt’asunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te ha dado cachetadas?",
+      "qu": "¿Laq’asunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Le tienes miedo?",
+      "qu": "¿Manchachikunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Le tienes miedo a tu marido?",
+      "qu": "¿Qusaykita manchachikunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Le tienes miedo a tu pareja?",
+      "qu": "¿Yananchaykita manchachikunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te insulta?",
+      "qu": "¿Turiyasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Se burla de vos?",
+      "qu": "¿Qammanta asikunchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te controla?",
+      "qu": "¿Tukuy imatachu qhawasunki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te amenaza?",
+      "qu": "¿Manchachisunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Destruye objetos de la casa? (¿rompe las cosas de la casa?)",
+      "qu": "¿Imakunachus kapusunki chayta p’akirapusunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Golpea a tus hijos?",
+      "qu": "¿Wawakunaykita maqanchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Tienes que pedir permiso para venir al hospital?",
+      "qu": "¿Hospitalman jamunaykipaq paymanraqchu willanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te deja salir?",
+      "qu": "¿Lluqsiqta saqillasunkichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Te obliga a dormir con él? (¿Te obligan a tener relaciones sexuales?)",
+      "qu": "¿Mana paywan puñuy munaqtiykipis puñunachik nillasunkipunichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Aunque no quieras?",
+      "qu": "¿Manapuni munaqtiykipischu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántos hijos tienes?",
+      "qu": "¿Mayk’a wawayuqtaq kanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Cuántos hijos quieres tener?",
+      "qu": "¿Mayk’a wawayuqtaq kayta munanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Ya no quieres tener más hijos?",
+      "qu": "¿Manañachu wawayuq kayta munanki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Sabías que tú puedes decidir cuántos hijos tener?",
+      "qu": "¿Yachankichu qammanta kasqanta mayk’a wawayuqchus kayta munasqayki?",
+      "ay": ""
+    },
+    {
+      "es": "¿Sabes qué es un anticonceptivo?",
+      "qu": "¿Yachankichu imachus anticonceptivo kasqanta?",
+      "ay": ""
+    },
+    {
+      "es": "Los anticonceptivos son para que no te embaraces",
+      "qu": "Anticonceptivosqa mana unquq rikhurinaykipaq",
+      "ay": ""
+    },
+    {
+      "es": "Si usas un anticonceptivo ya no te vas embarazar",
+      "qu": "Anticonceptivoswanqa mañana unquq rikhurinkichu",
+      "ay": ""
+    },
+    {
+      "es": "¿Sabías que puedes evitar embarazarte usando",
+      "qu": "anticonceptivos? ¿Kay anticonceptivosta apaykachaspaqa manaña unquq rikhurinaykita yachankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Quisieras utilizar un anticonceptivo?",
+      "qu": "¿Juk anticonceptivota apaykachankimanchu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Sabes qué es el condón?",
+      "qu": "¿Imachus condón kasqanta yachankichu?",
+      "ay": ""
+    },
+    {
+      "es": "El condón lo usa el varón",
+      "qu": "Condontaqa qharikuna churakunku",
+      "ay": ""
+    },
+    {
+      "es": "Tiene que colocarse antes de dormir con la mujer",
+      "qu": "(relación sexual) Manaraq warmiwan puñuykuchkaspa churakunan tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Tiene que usar uno nuevo cada que duerma con la mujer (tener relaciones sexuales)",
+      "qu": "Sapa warmiwan puñuykunanpaq musuq condonta churakunan tiyan",
+      "ay": ""
+    },
+    {
+      "es": "¿Conoces el condón femenino?",
+      "qu": "Warmikunapaq condón kan chayta riqsinkichu",
+      "ay": ""
+    },
+    {
+      "es": "Lo utiliza la mujer",
+      "qu": "Kaytaqa warmi churakun",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que colocarte uno antes de la relación",
+      "qu": "(relación sexual) Sapa qhariwan puñuykunaykipaq musuqta churakunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que usar uno nuevo cada que tengan",
+      "qu": "relaciones sexuales Sapa qhariwan puñuykunaykipaq musuqta churakunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Ayuda a prevenir enfermedades (infecciones de",
+      "qu": "transmisión sexual) Ima unquykunamantapis jark’ayta yanapakun",
+      "ay": ""
+    },
+    {
+      "es": "¿Conoces la tableta vaginal?",
+      "qu": "¿Tableta vaginalta riqsinkichu?",
+      "ay": ""
+    },
+    {
+      "es": "Debes usar una nueva para cada relación",
+      "qu": "(relación sexual)",
+      "ay": ""
+    },
+    {
+      "es": "¿Conoces la T de Cobre?",
+      "qu": "¿T de cobreta riqsinkichu?",
+      "ay": ""
+    },
+    {
+      "es": "Es muy efectivo (para evitar embarazos)",
+      "qu": "Sumaq mana unquq rikhurinapaq",
+      "ay": ""
+    },
+    {
+      "es": "Debe colocártelo un médico",
+      "qu": "Kaytaqa juk jampiq churasunan tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Puedes quitártelo cuando quieras",
+      "qu": "Ima ratupis urqurpachikuyta atillanki.",
+      "ay": ""
+    },
+    {
+      "es": "Puedes tener hijos después de quitártelo",
+      "qu": "Urqurpachikuytawan watiqmanta wawayuq kayta atillanki",
+      "ay": ""
+    },
+    {
+      "es": "Es cómodo de usar",
+      "qu": "Kay T de cobreqa aswan sumaqpuni mana unquq rikhurinapaq",
+      "ay": ""
+    },
+    {
+      "es": "¿Sabes que son las píldoras anticonceptivas?",
+      "qu": "¿Yachankichu imachus pildora anticonceptivakuna kasqanta?",
+      "ay": ""
+    },
+    {
+      "es": "Son muy efectivas para evitar el embarazo",
+      "qu": "Kaykunaqa sumaq mana unquq rikhurinapaq",
+      "ay": ""
+    },
+    {
+      "es": "Debes tomar una píldora cada día a la misma",
+      "qu": "hora Sapa p’unchaw kikin horapi juk pildorata ukyanayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "No debes olvidarte de tomar",
+      "qu": "Mana ukyayta qunqanaykichu tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Tienes que conseguir un paquete nuevo cada mes (refiriéndose a las píldoras)",
+      "qu": "Sapa killa juk musuq paqueteta ukyanayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "¿Conoces los inyectables anticonceptivos?",
+      "qu": "¿Mana unquq rikhurinapaq inyestablekunata riqsinkichu?",
+      "ay": ""
+    },
+    {
+      "es": "Esta debes inyectarte cada mes (refiriéndose a los inyectables)",
+      "qu": "Kaytaqa sapa killa inyectachikunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Esta debes inyectarte cada tres meses (refiriéndose a los inyectables)",
+      "qu": "Kaytaqa sapa kimsa killa inyectachinunayki tiyan",
+      "ay": ""
+    },
+    {
+      "es": "Son muy cómodas de usar",
+      "qu": "Kay inyeccionqa aswan sumaqpuni mana unquq rikhurinapaq",
+      "ay": ""
+    },
+    {
+      "es": "¿Sabes qué es la ligadura de trompas? ¿Imachus ligadura de trompas kasqanta",
+      "qu": "yachankichu?",
+      "ay": ""
+    },
+    {
+      "es": "¿Sabes qué es la vasectomía?",
+      "qu": "¿Imachus vasectomía kasqanta yachankichu?",
+      "ay": ""
+    },
+    {
+      "es": "Es una operación (cirugía) pequeña (no es difícil)",
+      "qu": "Juk juch’uy operación kachkan",
+      "ay": ""
+    },
+    {
+      "es": "No es peligrosa",
+      "qu": "Mana ima nakunchu",
+      "ay": ""
+    },
+    {
+      "es": "Después de la operación ya no puedes tener hijos",
+      "qu": "Operachikuytawanqa mañana wawakunayuq kayta atinkichu",
+      "ay": ""
+    },
+    {
+      "es": "¿Cómo te sientes?",
+      "qu": "¿Imaynalla kachkanki?",
+      "ay": ""
+    },
+    {
+      "es": "Hasta luego",
+      "qu": "Kutimunaykikama",
+      "ay": ""
+    }
+  ]
+}

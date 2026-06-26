@@ -1,0 +1,24 @@
+# Secretos — NUNCA subir
+.env
+*.env
+.env.local
+.env.*.local
+
+# Dependencias
+node_modules/
+npm-debug.log*
+
+# PDFs y archivos grandes/personales
+*.pdf
+
+# Tooling interno
+.vexp/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Datos locales entrenados (van por exportar/importar, no por git)
+datos/senas-base.json
