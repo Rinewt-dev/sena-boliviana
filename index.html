@@ -605,6 +605,8 @@ window.addEventListener('keyup',  (e)=>{ if(e.code==='Space'&&mode==='train')sto
 
 // ---------- salida ----------
 let committed=null, streak=0, streakLabel=null, frameBuffer=[], classifyTick=0;
+let streakStart=0; // timestamp en que la seña actual empezó a mantenerse
+const HOLD_MS=800; // ms que hay que sostener la seña antes de traducir
 function setOutput(label,conf){
   confbar.style.width=Math.round((conf||0)*100)+'%';
   if(!label){
@@ -654,10 +656,12 @@ function loop(){
         if(classifyTick%5===0 && frameBuffer.length>=8){ // clasifica cada 5 frames
           const r=classify(frameBuffer);
           if(r && r.label){
-            if(r.label===streakLabel) streak++; else {streakLabel=r.label; streak=1;}
+            if(r.label!==streakLabel){ streakLabel=r.label; streak=1; streakStart=performance.now(); }
+            else streak++;
             setOutput(r.label, r.conf);
-            if(streak===3 && committed!==r.label){ committed=r.label; speak(vocab[r.label].es); }
-          } else { streak=0; streakLabel=null; setOutput(null,0); committed=null; }
+            const held=performance.now()-streakStart;
+            if(streak>=3 && held>=HOLD_MS && committed!==r.label){ committed=r.label; speak(vocab[r.label].es); }
+          } else { streak=0; streakLabel=null; streakStart=0; setOutput(null,0); committed=null; }
         }
       }
     } else {
